@@ -6,3 +6,6 @@ def substraction(a,b,d):
 
 def division(a,b):
     return a/b
+
+def Multiplication(a,b):
+    return a*b
